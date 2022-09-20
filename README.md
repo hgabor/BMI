@@ -1,4 +1,4 @@
-# HG1
+# Halasz Gabor
 
 ## Hogyan kezdj neki?
 
